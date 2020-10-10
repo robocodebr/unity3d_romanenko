@@ -7,6 +7,10 @@ TagManager:
   - enemy
   - Spike
   - money
+  - wall
+  - wall1
+  - wall2
+  - wall3
   layers:
   - Default
   - TransparentFX
